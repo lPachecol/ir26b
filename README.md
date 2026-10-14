@@ -6,7 +6,7 @@ Aquí se alojan las soluciones a las actividades prácticas y notebooks desarrol
 
 ## Autor
 
-Pablo Andrés Pacheco Olivo
+Pablo Pacheco
 
 ## Organización del repositorio
 
